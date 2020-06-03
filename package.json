@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "@babel/preset-env": "^7.9.6",
-    "@babel/preset-react": "^7.9.4",
+    "@babel/preset-react": "^7.10.1",
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
@@ -16,6 +16,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-monaco-editor": "^0.36.0",
     "react-redux": "^7.2.0",
     "webpack": "^4.43.0"
   },
